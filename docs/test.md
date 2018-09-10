@@ -1,3 +1,7 @@
-Hi, this is the docs. Welcome here!
+# Hi, this is the docs. Welcome here!
 
-  :markdown?!
+## How to be nice to people
+Make them compliments
+
+## How to win friends?
+Make them coffee!
